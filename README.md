@@ -63,7 +63,7 @@ The symbol associated with each file. Indicates which file is doing the insertin
 This is a section header. It tells the line number from each file that is being compared (the plus and minus are the originator indicator not negative and positive numbers!!!)
 
 **⑤**:
-The words "fork this repo" I hope you have a better answer than me!
+unchanged line
 
 **⑥**:
 In this example, one line is replaced and 3 additional lines are added in the new version
